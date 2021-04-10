@@ -65,10 +65,10 @@ Hence, Our model is neither underfitting nor Overfitting.
        - PaperlessBilling
        - MonthlyCharges
 
-Offers that should be made to encourage customers to retain them with the company should be as follows:
-       1. Offer the customers to increase the tenure
-       2. If Customer is having Internet services, they should be offered complementary Online security and online backup facilities
-       3. Ensure the Tech Support to be provided on time and focus on cutomer needs and facilitate them timely
-          People with longer Contract plan of their services tend to stay longer with the company, ensure to offer people longer contract plans with slightly low charges to make           them stay.
-       4. If these actions are implemented, we can collect the latest Customer Churn data(post the implementation of these changes) and compare the same with historic data in             order to confirm that verify that the suggested changes has reduced the Customer Churn rate.      
+#### Offers that should be made to encourage customers to retain them with the company should be as follows:
+         1. Offer the customers to increase the tenure
+         2. If Customer is having Internet services, they should be offered complementary Online security and online backup facilities
+         3. Ensure the Tech Support to be provided on time and focus on cutomer needs and facilitate them timely
+            People with longer Contract plan of their services tend to stay longer with the company, ensure to offer people longer contract plans with slightly low charges to               make them stay.
+         4. If these actions are implemented, we can collect the latest Customer Churn data(post the implementation of these changes) and compare the same with historic data in             order to confirm that verify that the suggested changes has reduced the Customer Churn rate.      
 
